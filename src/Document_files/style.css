@@ -1,0 +1,19 @@
+td {
+  border: 1px solid grey;
+  width: 40px;
+  height: 40px;
+}
+
+table {
+  display: inline-block;
+  padding: 30px 50px;
+}
+
+#game {
+  display: flex;
+  justify-content: center
+}
+
+#message{
+  margin: 0 auto;
+}
